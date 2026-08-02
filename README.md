@@ -42,7 +42,7 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,dartc"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,dart"/>
 </p>
 
 ---
