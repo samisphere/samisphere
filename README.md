@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Samisphere Banner" width="100%">
+  <img src="assets/Banner.png" alt="Samisphere Banner" width="100%">
 </p>
 
 <h1 align="center">🌙 Welcome to the Samisphere</h1>
