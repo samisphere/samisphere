@@ -130,24 +130,20 @@ Every semester brings a new idea, and this space continues to grow.
 
 # 🌍 Let's Connect
 
+## 🌍 Let's Connect
+
 <p align="center">
+  <a href="https://samia-hasan-s-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-E8DDCC?style=for-the-badge"/>
+  </a>
 
-<a href="https://samia-hasan-s-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-E8DDCC?style=for-the-badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/samia-hasan-b8570a349">
+    <img src="https://img.shields.io/badge/LinkedIn-8FA77A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-&nbsp;
-
-<a href="https://www.linkedin.com/in/samia-hasan-b8570a349">
-<img src="https://img.shields.io/badge/LinkedIn-8FA77A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:raisa_hasan@icloud.com">
-<img src="https://img.shields.io/badge/Email-D7A5A5?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:raisa_hasan@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D7A5A5?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
