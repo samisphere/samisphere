@@ -9,7 +9,7 @@ Computer Science Engineering Student who loves turning ideas into thoughtful dig
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=2500&color=8FA77A&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%7C+Software+Developer;UI%2FUX+Designer;Building+beautiful+things+with+code+%F0%9F%8C%BF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=1000&color=8FA77A&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%7C+Software+Developer;UI%2FUX+Designer;Building+beautiful+things+with+code+%F0%9F%8C%BF"/>
 </p>
 
 ---
@@ -65,25 +65,23 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 
 ### AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/EasyOCR-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyOCR-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/YOLOv5-00C7D9?style=flat-square"/>
+</p>
 
 ---
 
 ### Databases
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PL/SQL-CC2927?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL/SQL-CC2927?style=flat-square"/>
+</p>
 
 ---
 
