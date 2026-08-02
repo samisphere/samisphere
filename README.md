@@ -112,7 +112,7 @@ A full-stack AI fitness application that helps users plan, track, and improve th
 
 ### 📱 More Coming Soon...
 
-Every semester brings a new idea, and this space continues to grow.
+I'm always building, learning, and turning new ideas into real projects.
 
 ---
 
