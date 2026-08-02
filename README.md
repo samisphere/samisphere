@@ -16,7 +16,7 @@ Computer Science Engineering Student who loves turning ideas into thoughtful dig
 
 ## ☕ Meet the Human Behind the Code
 
-Hi! I'm **Samia**, a Computer Science Engineering student who enjoys building thoughtful software and exploring new ideas.
+Hi! I'm **Samia**, a Computer Science Engineering graduate who enjoys building thoughtful software and exploring new ideas.
 
 I'm especially interested in **Artificial Intelligence, Full-Stack Development, and UI/UX Design**. Whether I'm training a model, designing an interface, or building a full-stack application, I love creating things that are both useful and enjoyable to use.
 
