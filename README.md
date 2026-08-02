@@ -85,7 +85,7 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,eclipse"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,eclipse"/>
 </p>
 
 ---
