@@ -1,94 +1,96 @@
 <p align="center">
-  <img src="images/banner.png" width="100%" alt="Samisphere Banner"/>
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Samisphere Banner" width="100%">
 </p>
 
-<h1 align="center">☾ Welcome to the Samisphere</h1>
+<h1 align="center">🌙 Welcome to the Samisphere</h1>
 
 <p align="center">
-A cozy corner of the internet where software, AI, creativity, and curiosity come together.
+Computer Science Engineering Student who loves turning ideas into thoughtful digital experiences.
 </p>
 
 <p align="center">
-
-AI • Full-Stack Development • UI/UX Design • Building Things with Purpose
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=2500&color=8FA77A&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%7C+Software+Developer;UI%2FUX+Designer;Building+beautiful+things+with+code+%F0%9F%8C%BF"/>
 </p>
 
 ---
 
 ## ☕ Meet the Human Behind the Code
 
-Hi! I'm **Samia Hasan**, a Computer Science Engineering student who enjoys turning ideas into thoughtful digital experiences.
+Hi! I'm **Samia**, a Computer Science Engineering student who enjoys building thoughtful software and exploring new ideas.
 
-I love building projects that combine **software engineering, artificial intelligence, and clean design**. Whether I'm developing an AI application, designing interfaces in Figma, or experimenting with new technologies, I'm always excited to learn something new.
+I'm especially interested in **Artificial Intelligence, Full-Stack Development, and UI/UX Design**. Whether I'm training a model, designing an interface, or building a full-stack application, I love creating things that are both useful and enjoyable to use.
 
-For me, programming isn't just about writing code—it's about creating solutions that are useful, intuitive, and enjoyable to use.
+Outside of coding, you'll usually find me experimenting with new technologies, redesigning my workspace, or searching for the perfect cup of coffee.
 
-When I'm away from the keyboard, you'll probably find me redesigning my workspace, exploring new technologies, enjoying a good cup of coffee, or spending time with my cat.
-
----
-
-## 🌱 What I'm Working On
-
-- 🤖 Building AI-powered applications
-- 🌐 Learning modern full-stack development
-- 📱 Creating responsive web & mobile experiences
-- 🎨 Designing intuitive user interfaces with Figma
-- ☁️ Exploring cloud technologies and DevOps
-- 🌍 Building projects that solve real-world problems
+> *Build with curiosity. Design with intention.*
 
 ---
 
-# ⚡ Tech Stack
+## 🌿 Currently Exploring
 
-### 💻 Languages
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Development
+- 📱 Mobile App Development
+- 🎨 UI/UX Design with Figma
+- ☁️ Cloud & DevOps
+- 🌱 Building projects that solve real-world problems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c"/>
 </p>
 
 ---
 
-### 🌐 Frontend
+### Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter"/>
 </p>
 
 ---
 
-### ⚙️ Backend
+### Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-Scikit-Learn • OpenCV • EasyOCR • YOLOv5
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### 🗄 Databases
+<img src="https://img.shields.io/badge/EasyOCR-4CAF50?style=for-the-badge"/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-Oracle SQL • PL/SQL
+<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge"/>
 
 ---
 
-### 🛠 Tools
+### Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PL/SQL-CC2927?style=for-the-badge"/>
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux"/>
 </p>
 
 ---
@@ -97,80 +99,55 @@ Oracle SQL • PL/SQL
 
 ### 🚗 Car Plate Detection System
 
-A computer vision application that detects and recognizes vehicle license plates using OCR and deep learning techniques.
+AI-powered vehicle license plate recognition using **OpenCV, OCR, and Deep Learning**.
 
 ---
 
-### 📖 Basair
+### 📖 Basair — Quran Learning Application
 
-A modern Quran learning application featuring topic-based navigation and an intuitive reading experience.
+A modern Quran learning platform designed with accessibility and meaningful learning in mind.
 
 ---
 
 ### 💪 AI Fitness Tracker
 
-A fitness companion that helps users monitor workouts, visualize progress, and receive AI-assisted recommendations.
+A full-stack AI fitness application that helps users plan, track, and improve their workouts.
 
 ---
 
-## 🌿 A Few Things I Enjoy
+### 📱 More Coming Soon...
 
-☕ Coffee
-
-🐈 Cats
-
-🌸 Cozy workspaces
-
-🎨 Designing interfaces
-
-📚 Learning new technologies
-
-🌙 Quiet evenings & good music
+Every semester brings a new idea, and this space continues to grow.
 
 ---
 
-# 🌄 Currently Working Towards
+# 🌸 Current Focus
 
-- 🚀 Building more AI-powered applications
-- 📱 Publishing polished full-stack projects
-- 🎨 Becoming a stronger UI/UX designer
-- 🌍 Contributing to open-source projects
-- 📖 Learning something new every day
+- 🌱 Building polished full-stack projects
+- 🤖 Learning more about AI and Deep Learning
+- 🎨 Improving UI/UX design skills
+- 🚀 Contributing to meaningful open-source projects
 
 ---
 
-# 📊 GitHub Stats
+# 🌍 Let's Connect
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_latte&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=catppuccin_latte&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://samia-hasan-s-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-E8DCCB?style=for-the-badge"/>
+<a href="https://samia-hasan-s-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-E8DDCC?style=for-the-badge"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.linkedin.com/in/samia-hasan-b8570a349">
-<img src="https://img.shields.io/badge/LinkedIn-Samia%20Hasan-8FB89A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8FA77A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:raisa_hasan@icloud.com">
-<img src="https://img.shields.io/badge/Email-Contact-D7A5A5?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D7A5A5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -178,19 +155,5 @@ A fitness companion that helps users monitor workouts, visualize progress, and r
 ---
 
 <p align="center">
-
-> *"Build with curiosity. Design with intention. Keep learning."* 🌿
-
+🌙 Thanks for stopping by the <b>Samisphere</b>.
 </p>
-
----
-
-<h3 align="center">
-
-Thanks for visiting the **Samisphere** ☾
-
-I hope you found something interesting.
-
-Happy coding! 💛
-
-</h3>
