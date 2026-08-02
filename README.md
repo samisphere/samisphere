@@ -50,7 +50,7 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter,"/>
 </p>
 
 ---
@@ -68,9 +68,7 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/EasyOCR-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/YOLOv5-00C7D9?style=flat-square"/>
 </p>
 
 ---
@@ -80,7 +78,6 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL/SQL-CC2927?style=flat-square"/>
 </p>
 
 ---
@@ -88,7 +85,7 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,eclipse"/>
 </p>
 
 ---
