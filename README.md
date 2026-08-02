@@ -127,8 +127,6 @@ Every semester brings a new idea, and this space continues to grow.
 
 # 🌍 Let's Connect
 
-## 🌍 Let's Connect
-
 <p align="center">
   <a href="https://samia-hasan-s-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-E8DDCC?style=for-the-badge"/>
