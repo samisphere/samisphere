@@ -9,7 +9,7 @@ Computer Science Engineering Graduate who loves turning ideas into thoughtful di
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=1000&color=8FA77A&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;AI+%7C+Software+Developer;UI%2FUX+Designer;Building+beautiful+things+with+code+%F0%9F%8C%BF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=1000&color=EBA0AC&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;AI+%7C+Software+Developer;UI%2FUX+Designer;Building+beautiful+things+with+code+%F0%9F%8C%BF"/>
 </p>
 
 ---
@@ -35,7 +35,21 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 - ☁️ Cloud & DevOps
 - 🌱 Building projects that solve real-world problems
 
+
 ---
+
+## 🌸 My GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/EBBCBA/samisphere"
+    alt="Samia's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+---
+
 
 # 🛠 Tech Stack
 
