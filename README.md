@@ -39,14 +39,16 @@ Outside of coding, you'll usually find me experimenting with new technologies, r
 ---
 
 ## 🌸 My GitHub Contributions
+ss
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/EBBCBA/samisphere"
+    src="https://ghchart.rshah.org/EBBCBA/samisphere?theme=rose"
     alt="Samia's GitHub Contribution Graph"
     width="100%"
   />
 </p>
+
 
 ---
 
