@@ -167,19 +167,19 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 ## ↗ Let's Connect
 
 <p align="center">
-  <a href="https://samia-hasan-s-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=flat&logo=googlechrome&logoColor=white" />
+  <a href="https://samia-hasan-s-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-D0B7E8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/samia-hasan-b8570a349">
-    <img src="https://img.shields.io/badge/LinkedIn-B7C9B2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/samia-hasan-b8570a349/">
+   <img src="https://img.shields.io/badge/LinkedIn-B8CDB5?style=for-the-badge&logo=linkedin&logoColor=2D2D35" />
+</a>
   <a href="mailto:raisa_hasan@icloud.com">
-    <img src="https://img.shields.io/badge/Email-E8B4B8?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EBA0AC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=16&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=500&height=30&lines=Somewhere+between+dreams+and+code+✧" />
 </p>
-
 
 
 <p align="center">
