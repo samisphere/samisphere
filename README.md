@@ -179,8 +179,8 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 
 
 <p align="center">
-☾ Thanks for stopping by the <b>Samisphere</b>. <img src="https://slackmojis.com/emojis/38005-nezuko_tpose/download" width="90" />
-</p>
+☾ Thanks for stopping by the <b>Samisphere</b>. </p>
+<p align="center"><img src="https://slackmojis.com/emojis/38005-nezuko_tpose/download" width="100" /></p>
 
 
 
