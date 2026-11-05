@@ -1,9 +1,17 @@
-<h1 align="center">☾ Welcome to the Samisphere</h1>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <h2>☾ Welcome to the Samisphere</h2>
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/ghost.gif" width="100" />
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=18&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=500&lines=✧+Computer+Science+Graduate+✧" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=22&pause=1000&color=EBA0AC&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Graduate;AI+%7C+Software+Developer;UI%2FUX+Designer;Building+beautiful+things+with+code+%F0%9F%8C%BF"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=18&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=650&height=30&lines=✧+Computer+Science+Engineering+Graduate+✧" />
+  <br/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=20&pause=1800&color=EBA0AC&center=true&vCenter=true&width=650&height=35&lines=AI+%7C+Software+Developer+🌷;UI%2FUX+Designer+🌸;Building+beautiful+things+with+code+🌱" />
 </p>
 
 ## Hi! I'm **Samia** <img src="https://slackmojis.com/emojis/13136-paw_wave/download" width="35" />
@@ -102,11 +110,12 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 </p>
 
 ## ✳ My GitHub Contributions
+
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/EBBCBA/samisphere?theme=rose"
-    alt="Samia's GitHub Contribution Graph"
+    src="https://ghchart.xqsit94.in/dark:D0B7E8/samisphere"
     width="100%"
+    alt="Samia's GitHub Contribution Graph"
   />
 </p>
 
@@ -116,10 +125,37 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 
 ## ✧ Featured Projects
 
-* 🚗 **Car Plate Detection System** — AI-powered vehicle license plate recognition built with OpenCV, OCR, and Deep Learning.
-* 📖 **Basair** — Accessible, modern Quran learning application designed for intuitive study.
-* 💪 **AI Fitness Tracker** — Full-stack application helping users track and optimize workout routines.
+<table>
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <img src="assets/car.png" width="75" />
+    </td>
+    <td valign="middle">
+      <b>Car Plate Detection</b><br>
+      AI-powered license plate recognition using OpenCV, OCR, and Deep Learning.
+    </td>
+  </tr>
 
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <img src="assets/basair.png" width="75" />
+    </td>
+    <td valign="middle">
+      <b>Basair</b><br>
+      A modern, accessible Quran learning mobile application designed for intuitive study.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100" align="center" valign="middle">
+      <img src="assets/fitness.png" width="75" />
+    </td>
+    <td valign="middle">
+      <b>AI Fitness Tracker</b><br>
+      A full-stack application for tracking workouts and supporting fitness goals.
+    </td>
+  </tr>
+</table>
 <p align="center">
   <span style="color: #D0B7E8;">────────────── ୨୧ ──────────────</span>
 </p>
@@ -143,7 +179,7 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 
 
 <p align="center">
-☾ Thanks for stopping by the <b>Samisphere</b>. <img src="assets/ghost.gif" width="100" />
+☾ Thanks for stopping by the <b>Samisphere</b>. <img src="https://slackmojis.com/emojis/38005-nezuko_tpose/download" width="90" />
 </p>
 
 
