@@ -21,7 +21,7 @@ Computer Science Engineering graduate specializing in **AI, Full-Stack Developme
 This is my little corner to share projects, explore ideas, and keep learning. I'm currently building projects to strengthen my skills and grow as a developer. 🌱
 
 <p align="center">
-  <span style="color: #D0B7E8;">────────────── ୨୧ ──────────────</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=18&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=1000&height=40&lines=━━━━━━━━━━━━━━━━+୨୧+━━━━━━━━━━━━━━━━" />
 </p>
 
 
@@ -106,10 +106,10 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 > </table>
 
 <p align="center">
-  <span style="color: #D0B7E8;">────────────── ୨୧ ──────────────</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=18&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=1000&height=40&lines=━━━━━━━━━━━━━━━━+୨୧+━━━━━━━━━━━━━━━━" />
 </p>
 
-## ✳ My GitHub Contributions
+## ♡ My GitHub Contributions
 
 <p align="center">
   <img
@@ -119,9 +119,13 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
   />
 </p>
 
+
+
 <p align="center">
-  <span style="color: #D0B7E8;">────────────── ୨୧ ──────────────</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=18&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=1000&height=40&lines=━━━━━━━━━━━━━━━━+୨୧+━━━━━━━━━━━━━━━━" />
 </p>
+
+
 
 ## ✧ Featured Projects
 
@@ -157,7 +161,7 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
   </tr>
 </table>
 <p align="center">
-  <span style="color: #D0B7E8;">────────────── ୨୧ ──────────────</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=400&size=18&duration=1&pause=999999&color=D0B7E8&center=true&vCenter=true&width=1000&height=40&lines=━━━━━━━━━━━━━━━━+୨୧+━━━━━━━━━━━━━━━━" />
 </p>
 
 ## ↗ Let's Connect
