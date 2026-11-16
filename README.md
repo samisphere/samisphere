@@ -113,9 +113,9 @@ This is my little corner to share projects, explore ideas, and keep learning. I'
 
 <p align="center">
   <img
-    src="https://ghchart.xqsit94.in/dark:D0B7E8/samisphere"
+    src="https://raw.githubusercontent.com/samisphere/samisphere/output/snake-lavender.svg"
     width="100%"
-    alt="Samia's GitHub Contribution Graph"
+    alt="Samia's contribution snake"
   />
 </p>
 
